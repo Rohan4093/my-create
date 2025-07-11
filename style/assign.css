@@ -17,7 +17,7 @@
     justify-content: space-between;
 }
 header{
-    background-image: url('/Assets/Hero-bg.png');
+    background-image: url('../assets/Hero-bg.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -111,7 +111,6 @@ header{
     margin-left: 91px;
     margin-right: 91px;
     margin-top: 116px;
-   
  }
  
  .right-sides{
@@ -120,17 +119,13 @@ header{
  .section-titles{
     font-size: 97px;
     font-weight: bold;
-    color: #000000;
-   
+    color: #000000; 
  }
  section input, textarea{
    display: block;
     padding: 19px 201px 19px 20px;
     border-radius: 10px;
     border: none;
-   
-
-
  }
  
  .btn-get{
@@ -173,9 +168,7 @@ header{
 
  ul li a{
     text-decoration: none;
-    padding: 48px;
-    
-    
+    padding: 48px;    
  }
  
  
