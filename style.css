@@ -1,10 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    
-   
-}
+
 .secondary-bg{
     background-color: #f6f6f8;
 }
@@ -17,7 +11,7 @@
     justify-content: space-between;
 }
 header{
-    background-image: url('/Hero-bg.png');
+    background-image: url('./Hero-bg.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
